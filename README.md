@@ -16,8 +16,8 @@ This repository contains three projects completed for the **Soft Computing** cou
 
 
 #### Example Outputs:
-![Detection of Pokémon Squintille - Example 1](Screenshot 2024-10-02 133604.png)
-![Detection of Pokémon Squintille - Example 2](Screenshot 2024-10-02 133630.png)
+![Detection of Pokémon Squintille - Example 1](screenshot2.png)
+![Detection of Pokémon Squintille - Example 2](screenshot3.png)
 ---
 
 
@@ -35,7 +35,7 @@ This repository contains three projects completed for the **Soft Computing** cou
 
 
 #### Segment 1:
-![Cars Crossing Red Line - Example](Screenshot 2024-10-02 142144.png)
+![Cars Crossing Red Line - Example](screenshot1.png)
 ---
 
 ### 3. **Recognition of Russian Words from CAPTCHA**
@@ -50,7 +50,7 @@ This repository contains three projects completed for the **Soft Computing** cou
   - On a set of **10 CAPTCHA** images, the Hamming distance was **0**, indicating perfect recognition.
 
 #### Captcha 1:
-![Recognition of Russian Words from CAPTCHA](Screenshot 2024-10-02 141948)
+![Recognition of Russian Words from CAPTCHA](screenshot4.png)
 ---
 
 
